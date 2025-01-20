@@ -7,9 +7,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>
         1. Prasības programmēšanā ir specifiskas nosacījumi,
         funkcijas vai īpašības, kas jāīsteno izstrādātajā
         sistēmā vai programmā, lai tā atbilstu lietotāju
@@ -28,14 +25,6 @@ function App() {
           <p>3. Atšķirība starp prasībām un prasību specifikāciju programmēšanā
             ir būtiska, un to izpratne ir ļoti svarīga, lai veiksmīgi vadītu
             programmatūras izstrādes procesu.</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
